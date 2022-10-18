@@ -10,7 +10,7 @@ Let me write quickly about myself without bragging:
 
 - 🥇 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc).
-- 💻 Currently working on [Leaderboard](https://github.com/KanzaTahreem/Leaderboard)
+- 💻 Currently working on [JavaScript Capstone](https://github.com/KanzaTahreem/Capstone2)
 - 🌍 Collaborating with web developers from around the world.
 - 🔮 Organize Web Front End with React.js.
 - ✨ Full-time coder and part-time adventure seeker.
