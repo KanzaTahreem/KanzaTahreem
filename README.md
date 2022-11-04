@@ -10,7 +10,7 @@ Let me write quickly about myself without bragging:
 
 - 🥇 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc).
-- 💻 Currently working on [Math Magicians](https://github.com/KanzaTahreem/Math-Magicians)
+- 💻 Currently working on [Math Magicians](https://github.com/KanzaTahreem/Math-Magicians) & [Bookstore](https://github.com/KanzaTahreem/Bookstore)
 - 🌍 Collaborating with web developers from around the world.
 - 🔮 Organize Web Front End with React.js.
 - ✨ Full-time coder and part-time adventure seeker.
