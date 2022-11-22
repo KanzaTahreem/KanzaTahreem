@@ -10,7 +10,7 @@ Let me write quickly about myself without bragging:
 
 - 🥇 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
-- 💻 Currently working on [Space Travelers Hub](https://github.com/Alhajideen/Space--Travelers) with [Nurudeen Salifu](https://github.com/Alhajideen).
+- 💻 Currently working on [React Capstone](https://github.com/KanzaTahreem/Capstone-III).
 - 🌍 Collaborating with web developers from around the world.
 - 🔮 Organize Web Front End with React.js and Redux.
 - ✨ Full-time coder and part-time adventure seeker.
