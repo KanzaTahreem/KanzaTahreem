@@ -10,7 +10,7 @@ Let me write quickly about myself without bragging:
 
 - 🥇 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
-- 💻 Currently working on [Crypto Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
+- 💻 Currently working on [Crypto Analysis](https://github.com/KanzaTahreem/Crypto-Analysis) $ [H1-Editor](https://github.com/KanzaTahreem/H1-Editor)
 - 🌍 Collaborating with web developers from around the world.
 - 🔮 Organize Web Front End with React.js and Redux.
 - ✨ Full-time coder and part-time adventure seeker.
