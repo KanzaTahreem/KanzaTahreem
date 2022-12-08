@@ -10,18 +10,18 @@ Let me write quickly about myself without bragging:
 
 - 🥇 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
-- 💻 Currently working on [Crypto Analysis](https://github.com/KanzaTahreem/Crypto-Analysis) & [H1-Editor](https://github.com/KanzaTahreem/H1-Editor)
+- 💻 Currently working on [Crypto Analysis](https://github.com/KanzaTahreem/Crypto-Analysis), [H1 Editor](https://github.com/KanzaTahreem/H1-Editor) & [Vet Clinic Database](https://github.com/KanzaTahreem/Vet-Clinic-Database)
 - 🌍 Collaborating with web developers from around the world.
 - 🔮 Organize Web Front End with React.js and Redux.
 - ✨ Full-time coder and part-time adventure seeker.
 - 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with: `.html`, `.css`, `.js`, `.jsx`, `.json`, `.yml`
+- ❤ Love working with: `.html`, `.css`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`
 - 😄 Passionate about accessibility and a web that works for everyone.
 
 ## Tech Stack 🛠
 
-- 👉 JavaScript | Ruby | Ruby on Rails
-- 👉 React.js | Redux | node.js
+- 👉 JavaScript | React.js | Redux 
+- 👉 SQL | PostgreSQL | Ruby | Ruby on Rails | node.js
 - 👉 Databases | Algorithms | Data Structures
 
 ## Connect with me 🤝
