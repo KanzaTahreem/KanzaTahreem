@@ -16,7 +16,7 @@ Let me write quickly about myself without bragging:
 - 🔮 Organize Web Front End with React.js and Redux.
 - ✨ Full-time coder and part-time adventure seeker.
 - 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`
+- ❤ Love working with: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`, `.rb`
 - 😄 Passionate about accessibility and a web that works for everyone.
 
 ## Tech Stack 🛠
