@@ -8,13 +8,12 @@ Let me write quickly about myself without bragging:
 
 <img align='right' width='220' src='./images/giphy.gif' alt='Writer Image'>
 
-- 🥇 Physicist by Degree and Software Developer by passion.
+- 🥈 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
 - 💻 Currently working on [Blog App](https://github.com/KanzaTahreem/Blog-App)
 - 🚧 In progress [Crypto Analysis](https://github.com/KanzaTahreem/Crypto-Analysis), [H1 Editor](https://github.com/KanzaTahreem/H1-Editor) & [Beach Resort](https://github.com/KanzaTahreem/Beach-Resort)
 - 🌍 Collaborating with web developers from around the world.
-- 🔮 Organize Web Front End with React.js and Redux.
-- ✨ Full-time coder and part-time adventure seeker.
+- ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
 - ❤ Love working with: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`, `.rb`
 - 😄 Passionate about accessibility and a web that works for everyone.
