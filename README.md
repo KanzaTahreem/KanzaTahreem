@@ -1,8 +1,8 @@
-<div align="center" style= "font-size: 13px">
-  <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30"></h1>
+<div align="center">
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30"></h2>
 </div>
 
-<div align="center" style= "font-size: 15px">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Kanza's+GitHub!;I'm+a+Full+Stack+Developer!" alt="Typing SVG" />
 </div>
 
