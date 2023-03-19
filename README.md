@@ -71,7 +71,7 @@
 
 </br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KanzaTahreem&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9&text-shadow=2px 2px 4px #000000" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KanzaTahreem&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
 
 ### ⚡ Recent Activity
 
