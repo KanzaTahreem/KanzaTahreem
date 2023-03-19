@@ -84,3 +84,12 @@
 4. 🎉 Merged PR [#27](https://github.com/Mhamad-Raad/final-capstone-frontend/pull/27) in [Mhamad-Raad/final-capstone-frontend](https://github.com/Mhamad-Raad/final-capstone-frontend)
 5. 💪 Opened PR [#27](https://github.com/Mhamad-Raad/final-capstone-frontend/pull/27) in [Mhamad-Raad/final-capstone-frontend](https://github.com/Mhamad-Raad/final-capstone-frontend)
 <!--END_SECTION:activity-->
+
+</br>
+
+## Latest Blog Posts 📕
+
+</br>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
