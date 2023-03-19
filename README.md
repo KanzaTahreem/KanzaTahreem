@@ -61,23 +61,17 @@
 </br>
 
 ## GitHub Stats 🚀
-<style>
-  .stats {
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-    border-radius: 10px;
-  }
-</style>
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanzaTahreem&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10" alt="github-stats" class="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KanzaTahreem&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10" alt="github-stats" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
 
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanzaTahreem&theme=transparent&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Most%20Used%20Languages&border_color=7D5EA8&border_radius=10&" alt="top-langs" class="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanzaTahreem&theme=transparent&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Most%20Used%20Languages&border_color=7D5EA8&border_radius=10&" alt="top-langs" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
 
 </br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KanzaTahreem&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9&text-shadow=2px 2px 4px #000000" alt="github-streak" class="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KanzaTahreem&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9&text-shadow=2px 2px 4px #000000" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
 
 ### ⚡ Recent Activity
 
