@@ -17,4 +17,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/@KanzaTahreem"
-          commit_message: "🔥 Update README with latest blog post"
