@@ -3,10 +3,8 @@
 </div>
 
 <div align="center" style= "font-size: 15px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&duration=4000&pause=500&color=FF6347&center=true&vCenter=true&width=650&height=100&lines=Welcome+to+Kanza's+GitHub!;I'm+a+Full+Stack+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=FF6347&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Kanza's+GitHub!;I'm+a+Full+Stack+Developer!" alt="Typing SVG" />
 </div>
-
-</br>
 
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
@@ -73,7 +71,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=KanzaTahreem&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
 
-### ⚡ Recent Activity
+</br>
+
+## Recent Activity ⚡
+
+</br>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#26](https://github.com/Mhamad-Raad/final-capstone-backend/pull/26) in [Mhamad-Raad/final-capstone-backend](https://github.com/Mhamad-Raad/final-capstone-backend)
