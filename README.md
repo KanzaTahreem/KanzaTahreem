@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Kanza's+GitHub!;I'm+a+Full+Stack+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Kanza's+GitHub!;I'm+a+Full-Stack+Developer!" alt="Typing SVG" />
 </div>
 
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
-- 💻 Currently working on [My Portfolio](https://github.com/KanzaTahreem/Portfolio)
+- 💻 Currently working on [My Portfolio](https://github.com/KanzaTahreem/Portfolio).
 - 🚧 In progress [Crypto Analysis](https://github.com/KanzaTahreem/Crypto-Analysis), [H1 Editor](https://github.com/KanzaTahreem/H1-Editor) & [Beach Resort](https://github.com/KanzaTahreem/Beach-Resort).
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
