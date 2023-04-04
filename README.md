@@ -15,7 +15,7 @@
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`, `.rb`, `.erb`
+- ❤ Love working with `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`, `.rb`, `.erb`
 - 😄 Passionate about accessibility and a web that works for everyone.
 
 </br>
