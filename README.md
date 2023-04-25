@@ -78,11 +78,11 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KanzaTahreem/Byte-Brawl-Frontend/pull/1) in [KanzaTahreem/Byte-Brawl-Frontend](https://github.com/KanzaTahreem/Byte-Brawl-Frontend)
-2. 💪 Opened PR [#1](https://github.com/KanzaTahreem/Byte-Brawl-Frontend/pull/1) in [KanzaTahreem/Byte-Brawl-Frontend](https://github.com/KanzaTahreem/Byte-Brawl-Frontend)
-3. 🎉 Merged PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
-4. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
-5. 🎉 Merged PR [#1](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/1) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
+1. 🗣 Commented on [#21](https://github.com/oovillagran/Capstone-Module2/issues/21) in [oovillagran/Capstone-Module2](https://github.com/oovillagran/Capstone-Module2)
+2. 🎉 Merged PR [#1](https://github.com/KanzaTahreem/Byte-Brawl-Frontend/pull/1) in [KanzaTahreem/Byte-Brawl-Frontend](https://github.com/KanzaTahreem/Byte-Brawl-Frontend)
+3. 💪 Opened PR [#1](https://github.com/KanzaTahreem/Byte-Brawl-Frontend/pull/1) in [KanzaTahreem/Byte-Brawl-Frontend](https://github.com/KanzaTahreem/Byte-Brawl-Frontend)
+4. 🎉 Merged PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
+5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
 <!--END_SECTION:activity-->
 
 </br>
