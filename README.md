@@ -78,10 +78,10 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/mm-pazouki/Portfolio/issues/5) in [mm-pazouki/Portfolio](https://github.com/mm-pazouki/Portfolio)
-2. 🗣 Commented on [#4](https://github.com/TaiwoEnoch/cryptocurrency-data-explorer/issues/4) in [TaiwoEnoch/cryptocurrency-data-explorer](https://github.com/TaiwoEnoch/cryptocurrency-data-explorer)
-3. 💪 Opened PR [#1](https://github.com/KanzaTahreem/Byte-Brawl-Frontend/pull/1) in [KanzaTahreem/Byte-Brawl-Frontend](https://github.com/KanzaTahreem/Byte-Brawl-Frontend)
-4. 🎉 Merged PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
+1. 🎉 Merged PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
+2. 💪 Opened PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
+3. 🗣 Commented on [#5](https://github.com/mm-pazouki/Portfolio/issues/5) in [mm-pazouki/Portfolio](https://github.com/mm-pazouki/Portfolio)
+4. 🗣 Commented on [#4](https://github.com/TaiwoEnoch/cryptocurrency-data-explorer/issues/4) in [TaiwoEnoch/cryptocurrency-data-explorer](https://github.com/TaiwoEnoch/cryptocurrency-data-explorer)
 5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
 <!--END_SECTION:activity-->
 
