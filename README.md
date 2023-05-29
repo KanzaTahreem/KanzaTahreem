@@ -78,10 +78,10 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/mzirkof/R-PortFolio/issues/14) in [mzirkof/R-PortFolio](https://github.com/mzirkof/R-PortFolio)
-2. 🎉 Merged PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
-3. 💪 Opened PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
-4. 🗣 Commented on [#5](https://github.com/mm-pazouki/Portfolio/issues/5) in [mm-pazouki/Portfolio](https://github.com/mm-pazouki/Portfolio)
+1. 🗣 Commented on [#33](https://github.com/Iqbal-Elham/Ruby-capstone/issues/33) in [Iqbal-Elham/Ruby-capstone](https://github.com/Iqbal-Elham/Ruby-capstone)
+2. 🗣 Commented on [#14](https://github.com/mzirkof/R-PortFolio/issues/14) in [mzirkof/R-PortFolio](https://github.com/mzirkof/R-PortFolio)
+3. 🎉 Merged PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
+4. 💪 Opened PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
 5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
 <!--END_SECTION:activity-->
 
