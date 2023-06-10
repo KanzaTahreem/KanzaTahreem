@@ -78,8 +78,8 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/imranhossainemi/catalog_of_my_things/issues/5) in [imranhossainemi/catalog_of_my_things](https://github.com/imranhossainemi/catalog_of_my_things)
-2. 🗣 Commented on [#33](https://github.com/Iqbal-Elham/Ruby-capstone/issues/33) in [Iqbal-Elham/Ruby-capstone](https://github.com/Iqbal-Elham/Ruby-capstone)
+1. 🗣 Commented on [#3](https://github.com/MustafaSamiShirzad/portfoliowebsite2/issues/3) in [MustafaSamiShirzad/portfoliowebsite2](https://github.com/MustafaSamiShirzad/portfoliowebsite2)
+2. 🗣 Commented on [#5](https://github.com/imranhossainemi/catalog_of_my_things/issues/5) in [imranhossainemi/catalog_of_my_things](https://github.com/imranhossainemi/catalog_of_my_things)
 3. 🎉 Merged PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
 4. 💪 Opened PR [#4](https://github.com/KanzaTahreem/Crypto-Analysis/pull/4) in [KanzaTahreem/Crypto-Analysis](https://github.com/KanzaTahreem/Crypto-Analysis)
 5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
