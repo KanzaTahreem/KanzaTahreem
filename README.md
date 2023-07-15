@@ -74,7 +74,7 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/yosaddis/catalogue-my-things-ruby/issues/25) in [yosaddis/catalogue-my-things-ruby](https://github.com/yosaddis/catalogue-my-things-ruby)
+1. 🎉 Merged PR [#12](https://github.com/KanzaTahreem/Blog-App/pull/12) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
 2. 🎉 Merged PR [#8](https://github.com/KanzaTahreem/OOP-School-Library/pull/8) in [KanzaTahreem/OOP-School-Library](https://github.com/KanzaTahreem/OOP-School-Library)
 3. 💪 Opened PR [#8](https://github.com/KanzaTahreem/OOP-School-Library/pull/8) in [KanzaTahreem/OOP-School-Library](https://github.com/KanzaTahreem/OOP-School-Library)
 4. 🗣 Commented on [#5](https://github.com/imranhossainemi/catalog_of_my_things/issues/5) in [imranhossainemi/catalog_of_my_things](https://github.com/imranhossainemi/catalog_of_my_things)
