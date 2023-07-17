@@ -74,8 +74,8 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/KanzaTahreem/Blog-App/pull/12) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
-2. 🎉 Merged PR [#8](https://github.com/KanzaTahreem/OOP-School-Library/pull/8) in [KanzaTahreem/OOP-School-Library](https://github.com/KanzaTahreem/OOP-School-Library)
+1. 🗣 Commented on [#34](https://github.com/bilalrajput09/Catalog-of-my-things/issues/34#issuecomment-1637943748) in [bilalrajput09/Catalog-of-my-things](https://github.com/bilalrajput09/Catalog-of-my-things)
+2. 🎉 Merged PR [#12](https://github.com/KanzaTahreem/Blog-App/pull/12) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
 3. 💪 Opened PR [#8](https://github.com/KanzaTahreem/OOP-School-Library/pull/8) in [KanzaTahreem/OOP-School-Library](https://github.com/KanzaTahreem/OOP-School-Library)
 4. 🗣 Commented on [#5](https://github.com/imranhossainemi/catalog_of_my_things/issues/5) in [imranhossainemi/catalog_of_my_things](https://github.com/imranhossainemi/catalog_of_my_things)
 5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
