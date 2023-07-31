@@ -78,10 +78,10 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
-2. 💪 Opened PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
-3. 🗣 Commented on [#34](https://github.com/bilalrajput09/Catalog-of-my-things/issues/34#issuecomment-1637943748) in [bilalrajput09/Catalog-of-my-things](https://github.com/bilalrajput09/Catalog-of-my-things)
-4. 🎉 Merged PR [#12](https://github.com/KanzaTahreem/Blog-App/pull/12) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
+1. 🗣 Commented on [#22](https://github.com/Rebelzob/capstone-project-module2/issues/22#issuecomment-1659202176) in [Rebelzob/capstone-project-module2](https://github.com/Rebelzob/capstone-project-module2)
+2. 🎉 Merged PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
+3. 💪 Opened PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
+4. 🗣 Commented on [#34](https://github.com/bilalrajput09/Catalog-of-my-things/issues/34#issuecomment-1637943748) in [bilalrajput09/Catalog-of-my-things](https://github.com/bilalrajput09/Catalog-of-my-things)
 5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
 <!--END_SECTION:activity-->
 
