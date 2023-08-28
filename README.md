@@ -41,12 +41,13 @@
 <a href="https://swagger.io/"><img src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black' alt="swagger" /></a>
 <a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
 
-<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
-<a href="https://wordpress.com/"><img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white' alt="wordpress" /></a>
+<!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
+<a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
+<a href="https://vercel.com/"><img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' alt="vercel" /></a>
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
 <a href="https://railway.app/"><img src='https://img.shields.io/badge/Railway-131456?style=for-the-badge&logo=railway&logoColor=white' alt="railway" /></a>
 <a href="https://www.netlify.com/"><img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt="netlify" /></a>
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+
 
 
 </br>
