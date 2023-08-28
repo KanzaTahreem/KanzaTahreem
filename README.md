@@ -46,6 +46,7 @@
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
 <a href="https://railway.app/"><img src='https://img.shields.io/badge/Railway-131456?style=for-the-badge&logo=railway&logoColor=white' alt="railway" /></a>
 <a href="https://www.netlify.com/"><img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt="netlify" /></a>
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 
 
 </br>
