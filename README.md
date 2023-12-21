@@ -81,8 +81,8 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/78fatemanazari/ruby-capstone/issues/34#issuecomment-1811366811) in [78fatemanazari/ruby-capstone](https://github.com/78fatemanazari/ruby-capstone)
-2. 💪 Opened PR [#25](https://github.com/KanzaTahreem/Recipe-App/pull/25) in [KanzaTahreem/Recipe-App](https://github.com/KanzaTahreem/Recipe-App)
+1. 💪 Opened PR [#1](https://github.com/syedsaif666/audio-textify-website/pull/1) in [syedsaif666/audio-textify-website](https://github.com/syedsaif666/audio-textify-website)
+2. 🗣 Commented on [#34](https://github.com/78fatemanazari/ruby-capstone/issues/34#issuecomment-1811366811) in [78fatemanazari/ruby-capstone](https://github.com/78fatemanazari/ruby-capstone)
 3. 💪 Opened PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
 4. 🗣 Commented on [#34](https://github.com/bilalrajput09/Catalog-of-my-things/issues/34#issuecomment-1637943748) in [bilalrajput09/Catalog-of-my-things](https://github.com/bilalrajput09/Catalog-of-my-things)
 5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
