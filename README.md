@@ -9,46 +9,51 @@
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer by passion.
-- 👩‍🎓 Graduated from [Microverse](https://github.com/microverseinc), where I elevated my coding skills
+- 👩‍🎓 Graduated from [Microverse](https://github.com/microverseinc), where I elevated my coding skills.
 - 💻 Currently working on improving my skills.
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with `.html`, `.css`, `.scss`, `.js`, `.jsx`, `ts`, `tsx`, `.json`, `.yml`, `.sql`, `.rb`, `.erb`
+- ❤ Love working with `.js`, `.jsx`, `ts`, `tsx`, `.json`, `.yml`, `.sql`, `.rb`, `.erb`
 - 😄 Passionate about accessibility and a web that works for everyone.
 
 </br>
 
 ## Tech Stack 🛠
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
+<a href="https://www.typescriptlang.org/"><img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt="typescript" /></a>
 <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
 <a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
 <a href="https://nextjs.org/"><img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt="nextJS" /></a>
 <a href="https://redux.js.org/"><img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="redux" /></a>
-<a href="https://www.typescriptlang.org/"><img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt="typescript" /></a>
 
 <a href="https://sass-lang.com/"><img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt="sass" /></a> 
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
 <a href="https://tailwindcss.com/"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="tailwind" /></a>
+<a href="https://mui.com/material-ui/"><img src='https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white' alt="maerial" /></a>
 
 <a href="https://www.mysql.com/"><img src='https://img.shields.io/badge/MySQL-005C54?style=for-the-badge&logo=mysql&logoColor=white' alt="mysql" /></a>
 <a href="https://www.postgresql.org/"><img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt="postgresql" /></a>
 <a href="https://www.ruby-lang.org/en/"><img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt="ruby" /></a>
 <a href="https://rubyonrails.org/"><img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt="ror" /></a>
 <a href="https://jwt.io/"><img src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' alt="jwt" /></a>
+<a href="https://supabase.com/"><img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white' alt="supabase" /></a>
+
 
 <a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
 <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
 <a href="https://swagger.io/"><img src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black' alt="swagger" /></a>
 <a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' alt="postman" /></a>
 
-<!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
 <a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
+<a href="https://www.canva.com/"><img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white' alt="canva" /></a>
+<a href="https://storybook.js.org/"><img src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' alt="storybook" /></a>
+
+<a href="https://pages.github.com/"><img src='https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white' alt="github-pages" /></a>
 <a href="https://vercel.com/"><img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' alt="vercel" /></a>
 <a href="https://render.com/"><img src='https://img.shields.io/badge/Render-46E398?style=for-the-badge&logo=render&logoColor=white' alt="render" /></a>
 <a href="https://railway.app/"><img src='https://img.shields.io/badge/Railway-131456?style=for-the-badge&logo=railway&logoColor=white' alt="railway" /></a>
 <a href="https://www.netlify.com/"><img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt="netlify" /></a>
-
 
 
 </br>
@@ -57,7 +62,7 @@
 
 <a href="mailto:tehreemmsk411@gmail.ocm"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="gmail" /></a>
 <a href='https://www.linkedin.com/in/kanza-tahreem/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="linkedin" /></a>
-<a href='https://twitter.com/kanza_tahreem'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt="twitter" /></a>
+<a href='https://x.com/kanza_tahreem'><img src='https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white' alt="x" /></a>
 
 </br>
 
