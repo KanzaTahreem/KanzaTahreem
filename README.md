@@ -9,12 +9,12 @@
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer by passion.
-- 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
-- 💻 Currently working on [My Portfolio](https://github.com/KanzaTahreem/Portfolio).
+- 👩‍🎓 Graduated from [Microverse](https://github.com/microverseinc), where I elevated my coding skills
+- 💻 Currently working on improving my skills.
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`, `.rb`, `.erb`
+- ❤ Love working with `.html`, `.css`, `.scss`, `.js`, `.jsx`, `ts`, `tsx`, `.json`, `.yml`, `.sql`, `.rb`, `.erb`
 - 😄 Passionate about accessibility and a web that works for everyone.
 
 </br>
